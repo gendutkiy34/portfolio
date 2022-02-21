@@ -1,1 +1,1 @@
-This real usecase how to move data from Cloudera (CDSW) to Google Cloud or read data from Google Cloud. In this case, i was using pyspark.
+This real usecase how to move data from Cloudera (CDSW) to Google Cloud or read data from Google Cloud. In this case, i was using pyspark. Due to big num of data and limitation resouce, i was split data base on specific condition.
