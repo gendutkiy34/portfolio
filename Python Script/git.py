@@ -1,5 +1,6 @@
 '''
 This Class Function to make easy git operation in python script
+create by hariono
 '''
 
 from git import Repo
